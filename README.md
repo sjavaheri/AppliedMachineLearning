@@ -10,7 +10,7 @@ Welcome to our Applied Machine Learning Repository! These projects were complete
 
 Each of the projects, their corresponding papers, and the results of each paper are summarized in more detail below
 
-## Linear and Logisitic Regression 🏠 🌩️ (93.6%)
+## Linear and Logisitic Regression 🏠 🌩️ (92.6%)
 This project was centred around the introduction to common Machine Learning models. Its principal task was the implementation of two models: Linear Regression, and Logistic Regression with Gradient Descent. Our team implemented these models in Python using several core machine learning techniques: 
 
 - Analytical linear regression
@@ -42,7 +42,7 @@ This project and its paper contrasts the power of simplicity and complexity in m
 | Bayesian Naive Bayes  | 85.3              |
 | BERT                  | 88.8              |
 
-## Reproducibility Challenge ⚽🏆
+## Reproducibility Challenge ⚽🏆 (93.1%)
 
 This project and its paper explores a random forest approach to predicting the outcome of the FIFA World Cup in 2018, and the impact of both the complexity of data available and the effect of repeated simulations on model performance. The approach is based on a paper which uses a combination of random forests, poisson regression and ranking methods to predict the expected number of goals a team will score in a given game, which is then used to determine the winner. However, this approach is beyond our time and complexity constraints. To explore three of the papers main claims, our paper implements a simpler model that uses random forests to predict the most probable winning team. We explore three claims the paper makes both implicitly and explicitly:
 
