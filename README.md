@@ -1,5 +1,5 @@
 # AppliedMachineLearning
-Welcome to our Applied Machine Learning Repository! These projects were completed under the guidance of the 🤖 Applied Machine Learning 🤖 Course at McGill (COMP 551). While the projects had general guidelines, we were encouraged to go above and beyond 🚀, and to explore the implemenations of every model in various ways, a large portion of every grade we recieved. Each of the 4 projects is summarized below, and can be found in the corresponding folder, along with its IEEE report describing our research. 
+Welcome to our Applied Machine Learning Repository! These projects were completed wihtin 🤖 Applied Machine Learning 🤖 Course at McGill (COMP 551). While the projects had general guidelines, we were encouraged to go above and beyond 🚀, and to explore the implemenations of every model in various ways, a large portion of every grade we recieved. Each of the 4 projects is summarized below, and can be found in the corresponding folder, along with its IEEE report describing our research. 
 
 ## Brief Summary 📘📖
 - Implemented linear regression models in NumPy with several gradient descent methods and L1 Regularization, to predict two output variables from an 8-feature input quantitative energy dataset, achieving a MSE of less than 10 for all models 🔥
